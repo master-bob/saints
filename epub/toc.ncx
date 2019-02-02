@@ -810,7 +810,7 @@
           <navLabel>
             <text>Belief in self</text>
           </navLabel>
-          <content src="saints.xhtml#id6" />  
+          <content src="saints.xhtml#id4" />  
         </navPoint>
         <navPoint id="navPoint135" playOrder="125">
           <navLabel>
@@ -991,7 +991,7 @@
         <navLabel>
           <text>Conclusion</text>
         </navLabel>
-        <content src="saints.xhtml#id7" />  
+        <content src="saints.xhtml#id5" />  
       </navPoint>
     </navPoint>
     <navPoint id="navPoint165" playOrder="154">
