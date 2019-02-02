@@ -1000,5 +1000,29 @@
       </navLabel>
       <content src="saints.xhtml#glossary" />  
     </navPoint>
+    <navPoint id="navPoint166" playOrder="155">
+      <navLabel>
+        <text>Checklist for Saints and Psychopaths</text>
+      </navLabel>
+      <content src="checklist.xhtml" />  
+      <navPoint id="navPoint167" playOrder="155">
+        <navLabel>
+          <text>Checklist for Saints and Psychopaths</text>
+        </navLabel>
+        <content src="checklist.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint168" playOrder="156">
+        <navLabel>
+          <text>Psychopaths</text>
+        </navLabel>
+        <content src="checklist.xhtml#psychopaths" />  
+      </navPoint>
+      <navPoint id="navPoint169" playOrder="157">
+        <navLabel>
+          <text>Saints</text>
+        </navLabel>
+        <content src="checklist.xhtml#saints" />  
+      </navPoint>
+    </navPoint>
   </navMap>
 </ncx>
