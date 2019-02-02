@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en"
- unique-identifier="hamilton-psychopaths-saints"
+ unique-identifier="hamilton-saints-psychopaths"
  prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:opf="http://www.idpf.org/2007/opf"
         xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -11,9 +11,9 @@
     <dc:contributor>unknown</dc:contributor>
     <dc:publisher>Dharma Audio Network Associates</dc:publisher>
     <dc:rights>1995, William L. Hamilton</dc:rights>
-    <dc:identifier id="hamilton-psychopaths-saints">0-9644904-0-4</dc:identifier>
-    <dc:date>2019-02-02T09:25:04Z</dc:date>
-    <meta property="dcterms:modified">2019-02-02T09:25:04Z</meta>
+    <dc:identifier id="hamilton-saints-psychopaths">0-9644904-0-4</dc:identifier>
+    <dc:date>2019-02-02T09:32:27Z</dc:date>
+    <meta property="dcterms:modified">2019-02-02T09:32:27Z</meta>
     <meta property="ibooks:version">0.1</meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
