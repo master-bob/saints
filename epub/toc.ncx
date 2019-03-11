@@ -400,9 +400,9 @@
         </navPoint>
         <navPoint id="navPoint66" playOrder="60">
           <navLabel>
-            <text>Reports front India</text>
+            <text>Reports from India</text>
           </navLabel>
-          <content src="saints.xhtml#reports-front-india" />  
+          <content src="saints.xhtml#reports-from-india" />  
         </navPoint>
         <navPoint id="navPoint67" playOrder="61">
           <navLabel>
